@@ -34,6 +34,7 @@ To install with Composer:
 ```
 composer require harvesthq/chosen
 ```
+switch to the branch that you want to make the changes 
 
 The compiled files for these packages are automatically generated and stored in a [2nd Chosen repository](https://github.com/harvesthq/chosen-package). No pull requests will be accepted to that repository.
 
